@@ -1,1 +1,3 @@
 today  is Friday
+
+tomorrow  is fine
